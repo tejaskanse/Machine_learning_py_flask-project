@@ -1,19 +1,15 @@
 # Machine_learning_py_flask-project
 
 Goal of project
-
 -Using Linear Regression from Supervised Machine Learning Algorithm to learn the data from cars.csv and predicting the car prices.
 
 Tools or languages used
-
 -python 3. other modules used are flask, sklearn, pandas, mysql.
   
 Frontend working 
-
 -when a user enters the data of required car in web application, data is sent to backend, predictions are done based on previoues learning and returns a predicted price to the user.
   
 Backend working 
-
 -Data is fed to machince learing after performing Exploratory data analysis i.e. exploring data, understanding every feature, its use or relation with traget price,
 finding invalid values, replacing or making them null, filling or removing values based on their importance.
 
