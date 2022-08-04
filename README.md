@@ -1,4 +1,4 @@
-# Machine_learning_py_flask-project
+#Car-Price Prediction
 
 Goal of project
 -Using Linear Regression from Supervised Machine Learning Algorithm to learn the data from cars.csv and predicting the car prices.
